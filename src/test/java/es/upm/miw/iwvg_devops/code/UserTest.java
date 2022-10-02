@@ -47,7 +47,7 @@ public class UserTest {
 
     @Test
     void testInials(){
-        assertEquals("J.D",this.user.initials());
+        assertEquals("J.",this.user.initials());
     }
 
 }
