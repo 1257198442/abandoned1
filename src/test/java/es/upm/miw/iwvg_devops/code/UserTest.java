@@ -41,7 +41,7 @@ public class UserTest {
     }
 
     @Test
-    void testfullName(){
+    void testFullName(){
         assertEquals("Jiaming Shi",this.user.fullName());
     }
 
